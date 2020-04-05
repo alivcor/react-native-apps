@@ -4,6 +4,5 @@ A collection of apps I am building as I explore this relatively new to me world 
 
 ## 1. Goals App
 
-<p align="center">
-<center>
-<img src="https://raw.githubusercontent.com/alivcor/react-native-apps/master/assets/img/goals_app.PNG" style="width:250px; text-align: center"/></center></p>
+
+<img src="https://raw.githubusercontent.com/alivcor/react-native-apps/master/assets/img/goals_app.PNG" style="width:250px; text-align: center"/>
